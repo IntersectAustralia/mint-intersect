@@ -16,4 +16,4 @@ Please refer to http://www.redboxresearchdata.com.au/documentation/how-to/instit
 
 Acknowledgements
 
-The DC21 product includes software development funded by the Australian National Data Service (ANDS,http://ands.org.au). ANDS is supported by the Australian Government through the National Collaborative Research Infrastructure Strategy Program and the Education Investment Fund (EIF) Super Science Initiative.
+This software includes software development funded by the Australian National Data Service (ANDS,http://ands.org.au). ANDS is supported by the Australian Government through the National Collaborative Research Infrastructure Strategy Program and the Education Investment Fund (EIF) Super Science Initiative.
