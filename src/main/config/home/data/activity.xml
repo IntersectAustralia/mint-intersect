@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+	<registryObject group="ands.org.au">
+        <key>351204</key>
+        <originatingSource>iris</originatingSource>
+        <activity type="project">
+            <identifier type="purl">http://purl.org/au-research/grants/nhmrc/604008</identifier>
+            <name type="primary">
+                <namePart>The Many Rivers Diabetes Prevention Program</namePart>
+            </name>
+            <location>
+                <address>
+                    <electronic type="url">
+                        <value>http://might.have.one.com/</value>
+                    </electronic>
+                </address>
+            </location>
+            <subject type="anzsrc-for">060205</subject>
+            <subject type="anzsrc-for">050202</subject>
+            <description type="brief">A type II diabetes and obesity prevention program for Primary school aged rural indigenous children</description>
+            <existenceDates>
+                <startDate>2004-01-01T00:00:00Z</startDate>
+                <endDate dateFormat="W3CDTF">2005-12-31T11:59:59Z</endDate>
+            </existenceDates>
+            <relatedObject>
+                <!-- maps to mint person -->
+                <key>MQ12345678</key>
+                <relation type="isManagedBy"/>
+            </relatedObject>
+        </activity>
+    </registryObject>
+</registryObjects>

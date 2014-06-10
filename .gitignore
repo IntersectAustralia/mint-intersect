@@ -1,0 +1,8 @@
+target/
+/.settings
+/.project
+.idea/
+*.iml
+*.ipr
+*.iws
+bin/
