@@ -1,11 +1,9 @@
 Mint - Intersect Institutional Build
 ======================
 
-Supported: RIF-CS harvest, LDAP integration.
+Supports: RIF-CS harvest and LDAP integration.
 
 This code is licensed under the GNU GPL v3 license - see LICENSE.txt
-
-MQ institutional build with file system storage and Handle.net curation.
 
 Downloaded the latest builds here:
 
